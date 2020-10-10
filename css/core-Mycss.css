@@ -1,0 +1,63 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    width: 100%;
+    background-color:#2F4F4F;
+}
+h1{
+    text-align: center;
+}
+hr{
+  background: white;
+}
+/* L I N K */
+a:visited {
+  color: white;
+}
+a:link {
+  color: white;
+}
+/* ClASS */
+.kanan{
+    color: white;
+    padding: 25px;
+}
+.kiri{
+    color: white;
+    border: solid white;
+}
+.textKu{
+    margin: 50px;
+    text-align: center;
+}
+.stts{
+    color: tomato;
+}
+.pelengkap{
+  font-size: 25px;
+}
+.fab{
+  margin: 5px;
+}
+
+nav{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+/*=========================*/
+/* ID */
+#h1-header{
+  height: 100%;
+  font-size: 100px;
+  text-align: center;
+  color: white;
+  font-family: 'Poiret One', cursive;
+}
+
+#view{
+  margin: auto;
+}
+/*========================*/
