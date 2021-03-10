@@ -3,7 +3,8 @@ body{
     padding: 0px;
     height: 100%;
     width: 100%;
-    background-color:#2F4F4F;
+    background-color: #171919;
+    font-family: 'Poiret One', cursive;
 }
 h1{
     text-align: center;
@@ -31,9 +32,6 @@ a:link {
     margin: 50px;
     text-align: center;
 }
-.stts{
-    color: tomato;
-}
 .pelengkap{
   font-size: 25px;
 }
@@ -54,10 +52,15 @@ nav{
   font-size: 100px;
   text-align: center;
   color: white;
-  font-family: 'Poiret One', cursive;
 }
 
 #view{
   margin: auto;
 }
 /*========================*/
+
+footer{
+  color: white;
+  text-align: center;
+  font-size: 12px;
+}
